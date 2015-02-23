@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "hotdawgTest",
+    "name": "55hotdawg55's Test Mod",
+    "description": "Learning how to Mod Minecraft using Pahimar's Let's Mod Reboot Series",
+    "version": "1.7.10-1.0",
+    "credits": "Created by(with the help of Pahimar):55hotdawg55",
+    "logoFile": "",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authors": [
+      "55hotdawg55"
+    ],
+    "parent":"",
+    "screenshots": [],
+    "dependencies": [
+      "mod_MinecraftForge"
+    ]
+  }
+]
